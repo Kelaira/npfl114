@@ -18,6 +18,7 @@ if __name__ == "__main__":
             line = line.rstrip("\n")
             # TODO: process the line, aggregating using Python data structures
 
+# ChoĎ niekam niekto
     # TODO: Create a NumPy array containing the model distribution.
 
     # TODO: Compute and print the entropy H(data distribution). You should not use
